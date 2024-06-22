@@ -24,7 +24,7 @@ class SplashScreen extends StatelessWidget {
               TextSpan(
                 children: [
                   TextSpan(
-                    text: "Newsssssssssss",
+                    text: "News",
                     style: TextStyle(
                       color: Colors.black,
                       fontWeight: FontWeight.bold,
